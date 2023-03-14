@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 Se agregan nuevas lineas de escritura en el archivo text.txt
+=======
+
+Se agregan nuevas lineas de escritura en el archivo text.txt
+>>>>>>> 2f9545c9c2433d20a64f45b71c5f66c3d994ca24
 Se agregan nuevas lineas de escritura en el archivo text.txt
